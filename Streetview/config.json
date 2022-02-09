@@ -1,0 +1,31 @@
+{
+
+        "position": {
+
+          "left": 55,
+
+          "top": 45,
+
+          "width": 50,
+
+          "height": 50
+
+        },
+
+        "placeholderIndex": 1,
+
+        "id": "_5",
+
+        "positionRelativeTo": "map",
+
+        "name": "Streetview",
+
+        "label": "Splicing Schedule",
+
+        "version": "1.1",
+
+        "uri": "widgets/Streetview/Widget",
+
+        "config": "widgets/Streetview/config.json"
+
+      },
